@@ -1,2 +1,2 @@
 # IMWA
-Repository voor documentatie van de Informatiemodellen Water (IMWA)
+Repository voor documentatie van de Informatiemodellen Water (IMWA).
