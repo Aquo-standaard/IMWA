@@ -1,38 +1,37 @@
 var respecConfig = {
-  specStatus: "GN-CV",
+  specStatus: "",
   specType: "IM",
-  //canonicalURI: "WV",
-  //publishDate: "2020-03-26",
-  maxTocLevel: 3,
-   logos: [ {
-    src: 'https://github.com/Aquo-standaard/IMWA/blob/main/media/logo-IHW-200px.png',
-    href: "...",
+  //subtitle: "IMWA gegevenscatalogus",
+   //publishDate: "2023-04-26", 
+  logos: [
+  {src: 'https://www.aquo.nl//logos/aquo_logo.svg',
+    href: "http://aquo.nl",
+    alt: "Aquo",
+    width: 252,
+    height: 130,
+    id: 'AWK'},
+  {
+    src: 'https://cuatro.sim-cdn.nl/ihw/uploads/styles/logo/media/ihw_logo_def_taglines.png?cb=ZxTlKJiY',
+    href: "https://www.ihw.nl",
     alt: "Informatiehuis Water",
-    width: 776,
-    height: 163,
-    id: 'logo_aquo',
+    width: 229,
+    height: 130,
+    id: 'IHW',
   }]  ,
-   editors: [    {
-      name: "Informatiehuis Water",	
-      companyURL: "https://www.ihw.nl/aquo-standaard",
-    }],
+  editors: [],
   authors: [
-    {   name: "Informatiehuis Water",	
-      companyURL: "https://www.aquo.nl/IMWA",,
-    }
-	],
-  shortName: "IMWA",
-  pubDomain: "---",
-  github: "https://github.com/Aquo-standaard/IMWA",
-  previousPublishDate: "2023-04-12",
-  previousStatus: "GN-DEF",
-  //localBiblio: {
-  //  "ISO19136": {
-  //    "href": "https://www.iso.org/standard/32554.html",
-  //    "title": "ISO 19136:2007 Geographic information -- Geography Markup Language (GML)",
-  //    "authors": [""],
-  //    "date": "September 2007",
-  //    "publisher": "International Organization for Standardization",
-  //  },
-  //},
+    {
+      name: "Informatiehuis Water",
+	  mailto: "servicedesk@ihw.nl",
+	  note: "033 203 50 97",
+      companyURL: "http://www.ihw.nl",
+    }],
+  shortName: "AWK",
+  pubDomain: "IMWA",
+  github: "https://github.com/Aquo-standaard/AWK",
+  previousPublishDate: "2023-04-26",
+  previousStatus: "AQ-WV",
+  localBiblio: {
+    
+    },
 };
