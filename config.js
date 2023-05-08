@@ -10,14 +10,7 @@ var respecConfig = {
     width: 252,
     height: 130,
     id: 'AWK'},
-  {
-    src: 'https://cuatro.sim-cdn.nl/ihw/uploads/styles/logo/media/ihw_logo_def_taglines.png?cb=ZxTlKJiY',
-    href: "https://www.ihw.nl",
-    alt: "Informatiehuis Water",
-    width: 229,
-    height: 130,
-    id: 'IHW',
-  }]  ,
+]  ,
   editors: [],
   authors: [
     {
