@@ -9,7 +9,7 @@ var respecConfig = {
     alt: "Aquo",
     width: 252,
     height: 130,
-    id: 'aquo'},
+    id: 'aquo'}
 ]  ,
   editors: [],
   authors: [
