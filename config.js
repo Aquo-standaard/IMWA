@@ -9,7 +9,7 @@ var respecConfig = {
     alt: "Aquo",
     width: 252,
     height: 130,
-    id: 'AWK'},
+    id: 'aquo'},
 ]  ,
   editors: [],
   authors: [
@@ -19,9 +19,9 @@ var respecConfig = {
 	  note: "033 203 50 97",
       companyURL: "http://www.ihw.nl",
     }],
-  shortName: "AWK",
+  shortName: "",
   pubDomain: "IMWA",
-  github: "https://github.com/Aquo-standaard/AWK",
+  github: "https://github.com/Aquo-standaard",
   previousPublishDate: "2023-04-26",
   previousStatus: "AQ-WV",
   localBiblio: {
