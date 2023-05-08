@@ -1,5 +1,5 @@
 var respecConfig = {
-  specStatus: "",
+  specStatus: "AQ-WV",
   specType: "IM",
   //subtitle: "IMWA gegevenscatalogus",
    //publishDate: "2023-04-26", 
@@ -19,7 +19,7 @@ var respecConfig = {
 	  note: "033 203 50 97",
       companyURL: "http://www.ihw.nl",
     }],
-  shortName: "",
+  shortName: "IMWA",
   pubDomain: "IMWA",
   github: "https://github.com/Aquo-standaard",
   previousPublishDate: "2023-04-26",
